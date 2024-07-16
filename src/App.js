@@ -5,7 +5,7 @@ function App() {
   const num1 = 9;
   const num2 = 1;
   const sum = num1 + num2;
-  const colors = ["Чорний", "Червоний", "Білий"];
+  const colors = ["Чорний", "Червоний", "Блакитний"];
   const favoriteWebsite = {
     name: "Youtube",
     url: "https://www.youtube.com/",
